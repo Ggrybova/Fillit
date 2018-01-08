@@ -1,2 +1,2 @@
 # Fillit
-Fillit is a project who let you discover and/or familiarize yourself with a recurring problematic in programming: searching for the optimal solution among a huge set of possibilities.
+This program reads a series of tetrominos by the standard input (or by the given file) and assembles them together in order to make the smallest square possible.
